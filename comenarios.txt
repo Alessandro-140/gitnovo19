@@ -78,7 +78,10 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    // =====================MAS COMO EU JÀ ESTOU CONECTADO È DIFERENTE===================
    Se eu for na accounts eu teri meu "email"  então não precisofazer o processo acima.
 
-    No meu caso vou primeiro em settings Sync is On, vou clicar em settings Sync:Configure e dou "OK".
+    No meu caso vou primeiro em settings Sync is On, vou clicar em settings Sync:Configure e dou "OK",
+    vou escrever a mensagem e escolher o commit, após vai perguntar se quero publicar a branch = publish Branch,
+    vou clicar em  publish Branch e vai abrir um campo perguntando se é public ou privado, 
+    vou escolher public = publica.
 
    SIMPLESMENTE vou em "Source Control" e em initialize Repository e escrevo uma mensagem que 
    pode ser o do porque foi criado o repositório ou atualização que foi realizada detalhando 
