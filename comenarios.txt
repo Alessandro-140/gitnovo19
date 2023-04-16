@@ -76,12 +76,16 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
 
             ===> IMPORTANTE! ____________IMPORTANTE!____________________IMPORTANTE.
    // =====================MAS COMO EU JÀ ESTOU CONECTADO È DIFERENTE===================
-   Se eu for na accounts eu teri meu "email"  então não precisofazer o processo acima.
+   Se eu for na accounts eu teri meu "email"  então não preciso fazer o processo acima.
 
+// =============ESSE PROCESSO É IMPORTANTE=====================
     No meu caso vou primeiro em settings Sync is On, vou clicar em settings Sync:Configure e dou "OK",
     vou escrever a mensagem e escolher o commit, após vai perguntar se quero publicar a branch = publish Branch,
-    vou clicar em  publish Branch e vai abrir um campo perguntando se é public ou privado, 
-    vou escolher public = publica.
+    vou clicar em  publish Branch e vai abrir um campo perguntando se é public ou privado E POSSO por uma "mensagem, 
+    vou escolher public = publica, após oferce a opção de abrir o GitHub no navegador ou depois 
+    me conecto e abro o navegador manualmente.
+
+// ===================================================================
 
    SIMPLESMENTE vou em "Source Control" e em initialize Repository e escrevo uma mensagem que 
    pode ser o do porque foi criado o repositório ou atualização que foi realizada detalhando 
@@ -89,10 +93,10 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
 
    Se quando eu estiver atualizando o código aparecer o "U" => esse é o Untracked significa que o 
    Git não está "seguindo" o arquivo, ou seja, ele não vai atualizar ele em um próximo commit, primeiro vou em 
-   "Source Control" e em  initialize e depoi em publish to github e vai iniciar um repositorio local,
+   "Source Control" e em  initialize e depois em publish to github e vai iniciar um repositorio local,
     na minha máquina não será no GitHub e vai mostrar que tem um arquivo novo e vai aparecer no "Source Control, 
     aparece um ou mais números de  arquivos e da a opção de commit, tenho que por uma mensagem para validar o 
-    commit na minha máquina local ou sincronizar oas arquivos locais e por último a opção de commit remoto p/ o Git
+    commit na minha máquina local ou sincronizar os arquivos locais e por último a opção de commit remoto p/ o Git
    simplesmente fazer um commit, ou fazer um commit para o meu repositório local usando commit &  Sync e se eu 
    desejar faço o commit & push para o repositório remoto do GitHub.
 
