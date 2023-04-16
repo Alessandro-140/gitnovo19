@@ -1,0 +1,92 @@
+Site de explicação Git e GitHub:
+https://www.google.com.br/search?q=como+fazer+commit+no+visual+studio+code&sxsrf=
+APwXEdeuBy_5tO7bo13wiP2o_0GhTTHDdA%3A1681611271131&ei=B1o7ZIXZB5aQ5OUPlcWd-AI&ved=
+0ahUKEwjF-NyTqq3-AhUWCLkGHZViBy8Q4dUDCA8&uact=5&oq=como+fazer+commit+no+visual+
+studio+code&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB46CggAE
+EcQ1gQQsAM6BQghEKABOggIIRCgARCLAzoICCEQFhAeEB1KBAhBGABQjj1YumVg_2toA
+3ABeACAAcoBiAGcCJIBBTAuNS4xmAEAoAEByAEIuAECwAEB&sclient=gws-wiz-serp#fpstate=
+ive&vld=cid:12abf1b2,vid:7cNP3AE49Bg
+
+
+// Site de explicações dos comandos do GitHub:
+https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-
+Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio
+
+// Site de explicação sobre comandos para subir repositorios para o GitHub.
+https://agirweb.com.br/criar-novo-repositorio-no-github-e-conectar-ao-vscode-git-remote/
+
+
+// Tenho que habilitar o visual studio code para abrir ao clicar na pasta de interesse.
+
+Vou criar um arquivo index.html e sua estrutura escrevendo ! e clicando em tab monta a estrutura.
+
+// Para mudar o idioma no visual studio code é assim:
+CTRL + SHIFT + P, vou digitar display e selecionar o idioma, tenho que reiniciar o VS x CODE.
+
+// Eu tenho a esquerda no visual studio code uma ferramenta chamada "Source Control" que é 
+um icone do GIT de  versionamento, de branch(s), esse icone inicializa o repositório e 
+publica ele no GitHub.
+
+=> A primeira coisa que tenho que fazwe é iniciar um repositório local na minha máquina não
+é no GitHub ainda.
+
+// Eu tenho que saber a diferença quando eu faço um commit & sync que é no meu repositório
+local, E O commit & push eu vou subir pro meu repositório remoto, ou seja, pro GitHub.
+
+//=====================Explicação sobre o "U" no Explorer do visual studio code.===========
+
+// Utilizando Source Control e fazendo só o commit:
+Se tiver o "U" posso fazer o commit e vai sumir, faço deste modo, vou na ferramenta
+Source Control, abre um campo onde ponho uma mensagem, tem outro campo abaixo escrito commit 
+e ao lado deste campo tem uma flecha apontando para baixo onde irei selecionar para fazer 
+um commit simples, então clico no commit.
+
+Acredito que esse "U" que você está mencionado deve ser do Git. Você provavelmente está
+ mexendo em uma pasta com o Git. Esse Untracked significa que o Git não está "seguindo" o 
+ arquivo, ou seja, ele não vai atualizar ele em um próximo commit.
+
+Untracked é o estado onde o arquivo ainda não foi 'rastreado'. 
+Unmodified é o estado onde o arquivo não sofreu alterações em 
+relação a sua referência.
+
+Mas fora isso, caso não vá usar o Git nesse seu projeto, 
+não vai atrapalhar em nada o seu desenvolvimento.
+
+
+OBS: este site eu resolvi um problema com o Untracked que é o "U" no explorer do VS x CODE.
+https://stackoverflow.com/questions/69645740/visual-studio-code-source
+-control-10k-changes/70555538#70555538
+
+Explicação detalhada:
+Por alguns motivos, o git está rastreando os arquivos em sua pasta /user/username. 
+No seu explorador de arquivos, entre na pasta '/Users/username'.
+ Na opção de exibição na barra de fita da janela,
+  marque a opção 'item oculto'. quando todos os itens ocultos aparecerem,
+   exclua a pasta .git.
+
+    // Antes de entrar no GitHub.
+   OBS: IMPORTANTE se eu não for conectado ao GitHub pelo VS x CODE, eu vou na accounts
+   no roda pé na barra de ferramentas a esquerda, em sign in to Sync Settings para sincronizar
+   as configurações, eu posso escolher com fazer com a microsoft ou com o GitHub, vou 
+   escolher o GitHub.
+   via estar disposto assim para escolher:
+   sign in with Microsoft;
+   sign in with GitHub.
+
+
+            ===> IMPORTANTE! ____________IMPORTANTE!____________________IMPORTANTE.
+   // =====================MAS COMO EU JÀ ESTOU CONECTADO È DIFERENTE===================
+   Se eu for na accounts eu teri meu "email"  então não precisofazer o processo acima.
+
+   SIMPLESMENTE vou em "Source Control" e em initialize Repository e escrevo uma mensagem que 
+   pode ser o do porque foi criado o repositório ou atualização que foi realizada detalhando 
+   o motivo da atualização.
+
+   Se quando eu estiver atualizando o código aparecer o "U" => esse é o Untracked significa que o 
+   Git não está "seguindo" o arquivo, ou seja, ele não vai atualizar ele em um próximo commit, posso 
+   simplesmente fazer um commit, ou fazer um commit para o meu repositório local usando commit &  Sync e se eu 
+   desejar faço o commit & push para o repositório remoto do GitHub.
+
+
+
+
