@@ -100,6 +100,15 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    simplesmente fazer um commit, ou fazer um commit para o meu repositório local usando commit &  Sync e se eu 
    desejar faço o commit & push para o repositório remoto do GitHub.
 
+   // Alterações no repositório remoto do GitHub:
+   Abro o arquivo index.html e acresecento um parágrafo, volto no meu VS x CODE e atualizo e não será
+   vista a atualização feita no repositório remoto do GitHub.
+   ==> após alterar o arquivo no GitHub remoto, desço até commit changes onde posso por uma 
+   mensagem, mas no momento não vou por e vou até o botão verde commit changes e clico nele,
+   e terei as mudanças feitas no meu arquivo no github e se eu VOLTAR para o VS x CODE não terá as 
+   mudanças, vou atualizar e não vai mudar nada e o que farei para trazer as mudanças do github 
+   para o VS x CODE, SOLUÇÂO só clicar em Sync Changes.
+
 
 
 
