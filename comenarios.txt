@@ -107,7 +107,7 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    mensagem, mas no momento não vou por e vou até o botão verde commit changes e clico nele,
    e terei as mudanças feitas no meu arquivo no github e se eu VOLTAR para o VS x CODE não terá as 
    mudanças, vou atualizar e não vai mudar nada e o que farei para trazer as mudanças do github 
-   para o VS x CODE, SOLUÇÂO só clicar em Sync Changes.
+   para o VS x CODE, primeiro farei commit no VS x CODE e após SOLUÇÂO só clicar em Sync Changes.
 
 
 
