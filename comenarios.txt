@@ -127,9 +127,19 @@ localmente, e antes de eu dar um publish branch, eu vou criar um arquivo novo ne
 style.css e dentro deste body vai ter background-color: #000; E NÂO ESQUECER que foi acrescentado o 
 arquivo na branch developer.
 Vou fazer um commit, primeiro vou escrever uma MENSAGEM, e depois vou dar commit & push, e vai me informar 
-que essa branch não existe, agora vou em commit
+que essa branch não existe, agora vou em commit.
 
-   
+//============================================================================================
+
+Ao selecinar a branch master eu vou ver que o arquivo style.css estará
+até deletado, e se eu for na branch developer eu terei os 3 arquivos, o index.html,
+comentarios.txt e o style.css, posso ir na miha branch master e ir no 
+Source Control fazer um Sync changes, mas antes faço o commit e depois vai 
+ser oferecido a opção de Sync changes, e finalmente terei os 3 arquivos na 
+minha branch master, sendo index.html, comentarios.txt e o style.css que foi 
+trazido da branch developer.
+
+
 
 
 
