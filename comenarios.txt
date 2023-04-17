@@ -127,7 +127,20 @@ localmente, e antes de eu dar um publish branch, eu vou criar um arquivo novo ne
 style.css e dentro deste body vai ter background-color: #000; E NÂO ESQUECER que foi acrescentado o 
 arquivo na branch developer.
 Vou fazer um commit, primeiro vou escrever uma MENSAGEM, e depois vou dar commit & push, e vai me informar 
-que essa branch não existe, agora vou em commit
+que essa branch não existe, o que eu vou é publish branch = publicar branch, e após isso se eu 
+for no GitHub remoto e dar refresh = f5 vou ver as duas branch(s) e ao abrir as 2 verei que uma é 
+diferente da outra, MAS se eu for na branch developer eu vou ver os 3 arquivos, que são o index.html,
+comentarios.txt e o style.css, E SE EU VOLTAR PARA a branch master que eu tinha antes de criar a developer 
+eu terei só os 2 arquivos que eu tinha adicionado antes o index.html e o comentarios.txt, Mas agora vou dar 
+um compare & pull request, vou comparar ela e dar um create pull request, vai me trazer os commits 
+que foram feito e verei as mensagens que escrevi ao dar commit & push, vou colocar um comentário e clico
+em comment, e vou clicar em Merge pull request, após clico em "confirm merge" e ao fazer isso é
+ como se eu recebesse o pull request de alguém do grupo, equipe em que estamos trabalhando no código,
+ e agora se eu abrir o master terei o style.css por que eu fiz o merge com pull request, ENTÂO terei
+ os dois arquivos de antes que eram o arquivo index.html, comentarios.txt e agora após fazer o 
+ merge ppull request tenho o style.css também dentro da minha primeira branch a master.
+ Voltando pro VS x CODE se eu trocar de branch ao clicar na branch no roda pé, vou selecionar
+ a branch master
 
 
 
