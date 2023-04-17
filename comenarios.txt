@@ -126,7 +126,8 @@ ser a branch que eu vou programar, ao renomear e dar enter essa branch vai ser c
 localmente, e antes de eu dar um publish branch, eu vou criar um arquivo novo nesta branch, que se chamará 
 style.css e dentro deste body vai ter background-color: #000; E NÂO ESQUECER que foi acrescentado o 
 arquivo na branch developer.
-Vou fazer um commit, primeiro vou escrever uma MENSAGEM, e depois vou dar commit & push,
+Vou fazer um commit, primeiro vou escrever uma MENSAGEM, e depois vou dar commit & push, e vai me informar 
+que essa branch não existe, agora vou em commit
 
 
 
