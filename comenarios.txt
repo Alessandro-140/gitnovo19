@@ -138,7 +138,10 @@ Source Control fazer um Sync changes, mas antes faço o commit e depois vai
 ser oferecido a opção de Sync changes, e finalmente terei os 3 arquivos na 
 minha branch master, sendo index.html, comentarios.txt e o style.css que foi 
 trazido da branch developer.
+//==========================================================
 
+E uma OBS: da para fazer muita coisa com o Source Control, se eu for nos 3 pontinhos 
+terei muita coisa para explorar, PESQUISAR o que posso fazer com o Source Control.
 
 
 
