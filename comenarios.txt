@@ -100,6 +100,7 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    simplesmente fazer um commit, ou fazer um commit para o meu repositório local usando commit &  Sync e se eu 
    desejar faço o commit & push para o repositório remoto do GitHub.
 
+//===========================================================================================================
    // Alterações no repositório remoto do GitHub:
    Abro o arquivo index.html e acresecento um parágrafo, volto no meu VS x CODE e atualizo e não será
    vista a atualização feita no repositório remoto do GitHub.
@@ -109,11 +110,23 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    mudanças, vou atualizar e não vai mudar nada e o que farei para trazer as mudanças do github 
    para o VS x CODE, primeiro farei commit no VS x CODE e após SOLUÇÂO só clicar em Sync Changes.
 
+    // ============================================================================================
 
    // Alterar no VS X CODE e empurrar pro repositório GitHub repositório remoto, 
    Eu vou modificar no arquivo index.html, por um parágrafo a mais por exemplo,
    e vou fazer um commit ATENÇÂO não esquecer de escrever uma MENSAGEM sem ela não é feito o commit.
 
+//=============================================================================================
+
+Alterando e acrescentando conteúdo de uma branch para outra  aos 14 minutos do video.
+Como eu troco a munha branch, se eu clicar na master que é a minha branch atual que fica no 
+roda pé na barra de ferramentas a esquerda no VS x CODE, vai abrir umas opções, mas eu vou 
+selecionar o create new branch, vou renomear essa nova branch como developer por exemplo, essa vai 
+ser a branch que eu vou programar, ao renomear e dar enter essa branch vai ser criada e só existira 
+localmente, e antes de eu dar um publish branch, eu vou criar um arquivo novo nesta branch, que se chamará 
+style.css e dentro deste body vai ter background-color: #000; E NÂO ESQUECER que foi acrescentado o 
+arquivo na branch developer.
+Vou fazer um commit, primeiro vou escrever uma MENSAGEM, e depois vou dar commit & push,
 
 
 
