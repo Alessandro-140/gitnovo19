@@ -110,5 +110,10 @@ No seu explorador de arquivos, entre na pasta '/Users/username'.
    para o VS x CODE, primeiro farei commit no VS x CODE e após SOLUÇÂO só clicar em Sync Changes.
 
 
+   // Alterar no VS X CODE e empurrar pro repositório GitHub repositório remoto, 
+   Eu vou modificar no arquivo index.html, por um parágrafo a mais por exemplo,
+   e vou fazer um commit ATENÇÂO não esquecer de escrever uma MENSAGEM sem ela não é feito o commit.
+
+
 
 
